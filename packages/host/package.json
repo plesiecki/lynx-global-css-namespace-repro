@@ -1,0 +1,13 @@
+{
+  "name": "host",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rspeedy dev",
+    "build": "rspeedy build",
+    "preview": "rspeedy preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

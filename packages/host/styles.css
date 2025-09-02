@@ -1,0 +1,7 @@
+.theme {
+  --red: red;
+}
+
+.global-red {
+  color: var(--red);
+}
